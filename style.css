@@ -314,7 +314,9 @@ img {
   width: 400px;
   margin: auto 0;
 }
-
+#abt {
+  text-align: justify;
+}
 /* EXPERIENCE SECTION */
 
 #experience {
